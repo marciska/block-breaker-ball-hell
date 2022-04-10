@@ -1,0 +1,25 @@
+#################################################
+# OS generated files & others
+#################################################
+
+# =====================
+# Software generated files & others
+# =====================
+
+.vscode/
+.vs/
+
+# =====================
+# MacOS generated files
+# =====================
+
+# General
+.DS_Store
+*.icloud
+
+# =====================
+# WindowsOS generated files
+# =====================
+
+# Windows thumbnail cache files
+Thumbs.db
